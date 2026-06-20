@@ -1,5 +1,5 @@
 import type { VercelRequest, VercelResponse } from '@vercel/node';
-import { readRawBody, verifySignature } from '../lib/github';
+import { readRawBody, verifySignature } from '../lib/github.js';
 
 // Vercel auto-parses JSON bodies, which would consume the stream we need
 // for byte-exact HMAC verification. Disable the parser and read raw bytes.
