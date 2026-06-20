@@ -1,0 +1,272 @@
+Branch or tag creation
+Branch or tag created.
+
+
+
+ Branch or tag deletion
+Branch or tag deleted.
+
+
+
+ Branch protection configurations
+All branch protections disabled or enabled for a repository.
+
+
+
+ Branch protection rules
+Branch protection rule created, deleted or edited.
+
+
+
+ Bypass requests for push rulesets
+Push ruleset bypass request was created, cancelled, completed, received a response, or a response was dismissed.
+
+
+
+ Bypass requests for secret scanning push protections
+Secret scanning push protection bypass request was created, cancelled, completed, received a response, or a response was dismissed.
+
+
+
+ Check runs
+Check run is created, requested, rerequested, or completed.
+
+
+
+ Check suites
+Check suite is requested, rerequested, or completed.
+
+
+
+ Code scanning alerts
+Code Scanning alert updated. This event is triggered when the assignees or state of the alert changes. The state can be created, fixed in branch, or closed.
+
+
+
+ Collaborator add, remove, or changed
+Collaborator added to, removed from, or has changed permissions for a repository.
+
+
+
+ Commit comments
+Commit or diff commented on.
+
+
+
+ Dependabot alerts
+Dependabot alert assignees_changed, auto_dismissed, auto_reopened, created, dismissed, reopened, fixed, or reintroduced.
+
+
+
+ Deploy keys
+A deploy key is created or deleted from a repository.
+
+
+
+ Deployment statuses
+Deployment status updated from the API.
+
+
+
+ Deployments
+Repository was deployed or a deployment was deleted.
+
+
+
+ Discussion comments
+Discussion comment created, edited, or deleted.
+
+
+
+ Discussions
+Discussion created, edited, closed, reopened, pinned, unpinned, locked, unlocked, transferred, answered, unanswered, labeled, unlabeled, had its category changed, or was deleted.
+
+
+
+ Dismissal requests for dependabot alerts
+Dependabot alert dismissal request was created, cancelled, or received a response (approved or rejected).
+
+
+
+ Dismissal requests for code scanning alerts
+Code scanning alert dismissal request was created, or received a response (approved or rejected).
+
+
+
+ Dismissal requests for secret scanning alerts
+Secret scanning alert dismissal request was created, cancelled, or received a response.
+
+
+
+ Forks
+Repository forked.
+
+
+
+ Issue comments
+Issue comment created, edited, or deleted.
+
+
+
+ Issue dependencies
+Issue dependencies - such as blocked by or blocking - added or removed.
+
+
+
+ Issues
+Issue opened, edited, deleted, transferred, pinned, unpinned, closed, reopened, assigned, unassigned, labeled, unlabeled, milestoned, demilestoned, locked, unlocked, typed, untyped, field_added, or field_removed.
+
+
+
+ Labels
+Label created, edited or deleted.
+
+
+
+ Merge groups
+Merge Group requested checks, or was destroyed.
+
+
+
+ Meta
+This particular hook is deleted.
+
+
+
+ Milestones
+Milestone created, closed, opened, edited, or deleted.
+
+
+
+ Packages
+GitHub Packages published or updated in a repository.
+
+
+
+ Page builds
+Pages site built.
+
+
+
+ Pull request review comments
+Pull request diff comment created, edited, or deleted.
+
+
+
+ Pull request review threads
+A pull request review thread was resolved or unresolved.
+
+
+
+ Pull request reviews
+Pull request review submitted, edited, or dismissed.
+
+
+
+ Pull requests
+Pull request assigned, auto merge disabled, auto merge enabled, closed, converted to draft, demilestoned, dequeued, edited, enqueued, labeled, locked, milestoned, opened, ready for review, reopened, review request removed, review requested, synchronized, unassigned, unlabeled, or unlocked.
+
+
+
+ Pushes
+Git push to a repository.
+
+
+
+ Registry packages
+Registry package published or updated in a repository.
+
+
+
+ Releases
+Release created, edited, published, unpublished, or deleted.
+
+
+
+ Repositories
+Repository created, deleted, archived, unarchived, publicized, privatized, edited, renamed, or transferred.
+
+
+
+ Repository advisories
+Repository advisory published or reported.
+
+
+
+ Repository imports
+Repository import succeeded, failed, or cancelled.
+
+
+
+ Repository rulesets
+Repository ruleset created, deleted or edited.
+
+
+
+ Repository vulnerability alerts
+Dependabot alert (aka dependency vulnerability alert) created, resolved, or dismissed on a repository.
+
+
+
+ Secret scanning alert locations
+Secrets scanning alert location created.
+
+
+
+ Secret scanning alerts
+Secret scanning alert created, resolved, reopened, validated, publicly leaked, assigned, or unassigned.
+
+
+
+ Secret scanning scans
+Secrets scanning scan completed.
+
+
+
+ Security and analyses
+Code security features enabled or disabled for a repository.
+
+
+
+ Stars
+A star is created or deleted from a repository.
+
+
+
+ Statuses
+Commit status updated from the API.
+
+
+
+ Sub issues
+Sub-issues added or removed, and parent issues added or removed.
+
+
+
+ Team adds
+Team added or modified on a repository.
+
+
+
+ Visibility changes
+Repository changes from private to public.
+
+
+
+ Watches
+User stars a repository.
+
+
+
+ Wiki
+Wiki page updated.
+
+
+
+ Workflow jobs
+Workflow job queued, waiting, in progress, or completed on a repository.
+
+
+
+ Workflow runs
+Workflow run requested or completed on a repository.
